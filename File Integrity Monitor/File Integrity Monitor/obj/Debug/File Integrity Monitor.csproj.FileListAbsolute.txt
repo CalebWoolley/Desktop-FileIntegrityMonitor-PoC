@@ -1,0 +1,10 @@
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\bin\Debug\File Integrity Monitor.exe.config
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\bin\Debug\File Integrity Monitor.exe
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\bin\Debug\File Integrity Monitor.pdb
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\obj\Debug\File Integrity Monitor.csprojAssemblyReference.cache
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\obj\Debug\File_Integrity_Monitor.fileIntegrityMonitorForm.resources
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\obj\Debug\File_Integrity_Monitor.Properties.Resources.resources
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\obj\Debug\File Integrity Monitor.csproj.GenerateResource.cache
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\obj\Debug\File Integrity Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\obj\Debug\File Integrity Monitor.exe
+C:\Users\Caleb\source\repos\File Integrity Monitor\File Integrity Monitor\obj\Debug\File Integrity Monitor.pdb
