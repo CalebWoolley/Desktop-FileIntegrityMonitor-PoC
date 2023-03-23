@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\bin\Debug\FileIntegrityMonitor.exe.config
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\bin\Debug\FileIntegrityMonitor.exe
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\bin\Debug\FileIntegrityMonitor.pdb
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\obj\Debug\FileIntegrityMonitor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\obj\Debug\FileIntegrityMonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\obj\Debug\FileIntegrityMonitor.Properties.Resources.resources
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\obj\Debug\FileIntegrityMonitor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\obj\Debug\FileIntegrityMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\obj\Debug\FileIntegrityMonitor.exe
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\obj\Debug\FileIntegrityMonitor.pdb
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\obj\Debug\FileIntegrityMonitor.fileIntegrityMonitorForm.resources
+C:\Users\Admin\source\repos\FileIntegrityMonitor\FileIntegrityMonitor\obj\Debug\FileIntegrityMonitor.fileIntegrityLogForm.resources

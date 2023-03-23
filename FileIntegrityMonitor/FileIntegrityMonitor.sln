@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIntegrityMonitor", "FileIntegrityMonitor\FileIntegrityMonitor.csproj", "{2CA5D6C5-0358-4322-9468-6F712382BDCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA5D6C5-0358-4322-9468-6F712382BDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA5D6C5-0358-4322-9468-6F712382BDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA5D6C5-0358-4322-9468-6F712382BDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA5D6C5-0358-4322-9468-6F712382BDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12661FA9-D9FD-4B69-902D-D644DF4C2BB7}
+	EndGlobalSection
+EndGlobal
